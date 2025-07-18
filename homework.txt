@@ -1,0 +1,11 @@
+Noroc!
+
+Aveti urmatorul task: 
+ 
+1. Clonezi acest repo.
+2. Creezi un nou fisier cu numele tau gen mihai-eminescu.txt 
+3. In acel fisier scrii toate comenzile git care le-am invatat pana acum + ce fac ele.
+Dau eu primul exeplu:
+ git clone URL - cloneaza repo-ul de pe github/gitlab/bitbucket
+
+4. La urma nu uitati de add, commit, push.
